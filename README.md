@@ -1,4 +1,4 @@
-[click here for report] (file.doc/report.docx)
+[click here for report] (https://github.com/prettysiri-0/aifinal/blob/main/file.doc/report.docx)
 
 AI Habit Builder
 
