@@ -1,3 +1,5 @@
+[click here for report] (report.docx)
+
 AI Habit Builder
 
 An intelligent, adaptive habit-building assistant that breaks tasks into micro-tasks, adapts to users’ emotions and circadian rhythm, and provides multi-style AI coaching.
