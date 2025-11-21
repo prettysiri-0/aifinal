@@ -1,4 +1,4 @@
-[click here for report] (report.docx)
+[click here for report] (file.doc/report.docx)
 
 AI Habit Builder
 
